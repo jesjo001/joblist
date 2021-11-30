@@ -1,0 +1,2 @@
+"# joblist"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jesjo001/joblist.gitgit push -u origin main
+"# joblist"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jesjo001/joblist.gitgit push -u origin maingit init
