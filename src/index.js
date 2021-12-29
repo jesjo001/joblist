@@ -11,6 +11,7 @@ import ContactUs from "./pages/ContactUs";
 import Joblisting from "./pages/Joblisting";
 import Applied from "./pages/Applied";
 import Home from "./pages/Home";
+import Profile from "./pages/Profile";
 import Login from "./pages/Auth/Login";
 import Register from "./pages/Auth/Register";
 import RecruiterRegister from "./pages/Auth/RecruiterRegister";
@@ -23,6 +24,7 @@ ReactDOM.render(
         <Route path="/" element={<App />} >
 
           <Route path="/" element={<Home />} />
+          <Route path="/profile" element={<Profile />} />
           <Route path="/login" element={<Login />} />
           <Route path="/Register" element={<Register />} />
           <Route path="/jobs" element={<Joblisting />} />

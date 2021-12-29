@@ -212,12 +212,6 @@ export default function Joblisting() {
 
                     {/* {jobList.length > 0 ?? jobList.map((job, index) => (<JobCard toggleModal={toggleModal} />))} */}
                     {displayData()}
-                    {/* <JobCard toggleModal={toggleModal} />
-                    <JobCard toggleModal={toggleModal} />
-                    <JobCard toggleModal={toggleModal} /> */}
-
-
-
                 </CardContainer>
 
             </Container>
