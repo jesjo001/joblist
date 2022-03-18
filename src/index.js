@@ -11,7 +11,7 @@ import ContactUs from "./pages/ContactUs";
 import Joblisting from "./pages/Joblisting";
 import Applied from "./pages/Applied";
 import Home from "./pages/Home";
-import Profile from "./pages/Profile";
+import Profile from "./pages/Profile/Profile";
 import Login from "./pages/Auth/Login";
 import Register from "./pages/Auth/Register";
 import RecruiterRegister from "./pages/Auth/RecruiterRegister";
